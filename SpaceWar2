@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class SpaceWar{
+    public static void main (String args[]){
+        Scanner david = new Scanner (System.in);
+        System.out.println ("Press S to start");
+        david.nextLine();
+        System.out.println ("Welcome to SPACE WAR!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println ("A completely random game designed to make you go insane.");
+        System.out.println ("You have just landed on the Vitruvian 5 moon.");
+        System.out.println ("You see a non-hooman life form.");
+        System.out.println ("You find 6 weapons and tools");
+        System.out.println ("You take:");
+        System.out.println ("1. rifle");
+        System.out.println ("");
+        System.out.println ("");
+        System.out.println ("");
+        System.out.println ("");
+        System.out.println ("");
+    }
+}
